@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "I-Hung Hsu / 許義宏"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "I-Hung Hsu"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ihungalexhsu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "ihungalexhsu/ihungalexhsu.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "I-Hung Hsu"
+  pronouns         : "he/him"  
+  bio              : "Ph.D. Candidate at University of Southern California"
+  location         : "Los Angeles, CA, USA"
+  employer         : # ""
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ihunghsu@usc.edu / ihunghsu@isi.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
