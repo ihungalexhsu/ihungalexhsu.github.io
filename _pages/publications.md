@@ -20,6 +20,13 @@ You can find my full publication list on <a href="https://scholar.google.com/cit
   {% endif %}
 {% endfor %} -->
 
+<h1 style="margin: 1.25em 0px -0.5em; padding: 0px; color: brown;">Preprints</h1>
+{% for post in site.publications reversed %}
+  {% if post.venue == "arXiv" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
 {% assign publicationsByYear = site.publications | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in publicationsByYear reversed %}
   <h1 style="margin: 1.5em 0px -0.5em; padding: 0px; color: brown;">{{ year.name }}</h1>
@@ -33,10 +40,5 @@ You can find my full publication list on <a href="https://scholar.google.com/cit
   {% endfor %}
 {% endfor %}
 
-<h1 style="margin: 1.25em 0px -0.5em; padding: 0px; color: brown;">Preprints</h1>
-{% for post in site.publications reversed %}
-  {% if post.venue == "arXiv" %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
+
 
