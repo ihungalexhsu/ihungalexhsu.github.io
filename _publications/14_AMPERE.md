@@ -6,7 +6,7 @@ date: 07/2023
 venue: 'ACL'
 paperurl: 'https://aclanthology.org/2023.acl-long.615/'
 presentationurl: 'https://github.com/PlusLabNLP/AMPERE/blob/main/slide_AMPERE_Virtual_Video.mp4'
-# codeurl: ''
+codeurl: 'https://github.com/PlusLabNLP/AMPERE'
 excerpt: ''
 ---
 ---
