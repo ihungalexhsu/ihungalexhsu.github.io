@@ -5,7 +5,7 @@ Authors: 'Pin-Jung Chen<sup>*</sup>, <b>I-Hung Hsu</b><sup>*</sup>, Yi-Yao Huang
 date: 12/2017
 venue: 'IEEE ASRU'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8268977'
-presentationurl: ''
+# presentationurl: ''
 codeurl: 'https://github.com/ihungalexhsu/Domain_Adaptation_on_ASR_dialogue_system'
 excerpt: ''
 ---
