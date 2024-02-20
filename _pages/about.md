@@ -31,4 +31,4 @@ News and Announcements:
 1. <span style="color:blue">[09.2023] </span> I joined Google Cloud AI Research as a research intern.
 1. <span style="color:blue">[07.2023] </span> One paper got Area Chair Award at ACL 2023.
 1. <span style="color:blue">[05.2023] </span> I joined Microsoft Research as a research intern.
-1. <span style="color:blue">[05.2023] </span> Six papers got accepted at ACL 2023, including four main conference papers and two findings.
+1. <span style="color:blue">[05.2023] </span> Six papers got accepted at ACL 2023, including four main conference long papers and two long finding papers.
