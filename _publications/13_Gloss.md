@@ -1,7 +1,7 @@
 ---
 title: "Code-Switched Text Synthesis in Unseen Language Pairs"
 collection: publications
-Authors: '<b>I-Hung Hsu<b/>, Avik Ray, Shubham Garg, Nanyun Peng, Jing Huang.'
+Authors: '<b>I-Hung Hsu</b>, Avik Ray, Shubham Garg, Nanyun Peng, Jing Huang.'
 date: 07/2023
 venue: 'ACL'
 paperurl: 'https://aclanthology.org/2023.findings-acl.318/'
