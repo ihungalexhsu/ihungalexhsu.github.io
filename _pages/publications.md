@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %} -->
 
-You can also find my articles on <a href="https://scholar.google.com/citations?user=OtSSwJgAAAAJ&hl=en" target="_blank">my Google Scholar profile</a>. (* indicates equal contribution)
+You can find my articles on <a href="https://scholar.google.com/citations?user=OtSSwJgAAAAJ&hl=en" target="_blank">my Google Scholar profile</a>. (* indicates equal contribution)
 
 {% include base_path %}
 
@@ -20,7 +20,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   {% endif %}
 {% endfor %} -->
 
-{% assign publicationsByYear = site.publications | group_by_exp:"post", "post.date | date: '%Y'" %}
+<!-- {% assign publicationsByYear = site.publications | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in publicationsByYear reversed %}
   <h1 style="margin: 1.5em 0px -0.5em; padding: 0px; color: brown;">{{ year.name }}</h1>
   {% assign publicationsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
@@ -38,5 +38,5 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   {% if post.venue == "arXiv" %}
     {% include archive-single.html %}
   {% endif %}
-{% endfor %}
+{% endfor %} -->
 
