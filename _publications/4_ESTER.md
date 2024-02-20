@@ -1,0 +1,17 @@
+---
+title: "ESTER: A Machine Reading Comprehension Dataset for Reasoning about Event Semantic Relations"
+collection: publications
+Authors: 'Rujun Han, I-Hung Hsu, Jiao Sun, Julia Baylon, Qiang Ning, Dan Roth, Nanyun Peng.'
+date: 11/2021
+venue: 'EMNLP'
+paperurl: 'https://aclanthology.org/2021.emnlp-main.597/'
+# presentationurl: ''
+codeurl: 'https://github.com/PlusLabNLP/ESTER'
+excerpt: ''
+---
+---
+<a href='https://aclanthology.org/2021.emnlp-main.597/' target="_blank">[Download Paper]</a><a href='https://github.com/PlusLabNLP/ESTER' target="_blank">[Source Code]</a>
+
+<p align="justify">
+Understanding how events are semantically related to each other is the essence of reading comprehension. Recent event-centric reading comprehension datasets focus mostly on event arguments or temporal relations. While these tasks partially evaluate machines’ ability of narrative understanding, human-like reading comprehension requires the capability to process event-based information beyond arguments and temporal reasoning. For example, to understand causality between events, we need to infer motivation or purpose; to establish event hierarchy, we need to understand the composition of events. To facilitate these tasks, we introduce ESTER, a comprehensive machine reading comprehension (MRC) dataset for Event Semantic Relation Reasoning. The dataset leverages natural language queries to reason about the five most common event semantic relations, provides more than 6K questions, and captures 10.1K event relation pairs. Experimental results show that the current SOTA systems achieve 22.1%, 63.3% and 83.5% for token-based exact-match (EM), F1 and event-based HIT@1 scores, which are all significantly below human performances (36.0%, 79.6%, 100% respectively), highlighting our dataset as a challenging benchmark.
+</p>

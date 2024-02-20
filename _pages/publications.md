@@ -20,7 +20,7 @@ You can find my full publication list on <a href="https://scholar.google.com/cit
   {% endif %}
 {% endfor %} -->
 
-<!-- {% assign publicationsByYear = site.publications | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% assign publicationsByYear = site.publications | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in publicationsByYear reversed %}
   <h1 style="margin: 1.5em 0px -0.5em; padding: 0px; color: brown;">{{ year.name }}</h1>
   {% assign publicationsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
@@ -38,5 +38,5 @@ You can find my full publication list on <a href="https://scholar.google.com/cit
   {% if post.venue == "arXiv" %}
     {% include archive-single.html %}
   {% endif %}
-{% endfor %} -->
+{% endfor %}
 
