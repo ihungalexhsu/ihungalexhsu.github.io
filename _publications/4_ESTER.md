@@ -1,7 +1,7 @@
 ---
 title: "ESTER: A Machine Reading Comprehension Dataset for Reasoning about Event Semantic Relations"
 collection: publications
-Authors: 'Rujun Han, I-Hung Hsu, Jiao Sun, Julia Baylon, Qiang Ning, Dan Roth, Nanyun Peng.'
+Authors: 'Rujun Han, <b>I-Hung Hsu</b>, Jiao Sun, Julia Baylon, Qiang Ning, Dan Roth, Nanyun Peng.'
 date: 11/2021
 venue: 'EMNLP'
 paperurl: 'https://aclanthology.org/2021.emnlp-main.597/'
