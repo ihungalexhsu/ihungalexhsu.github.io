@@ -1,7 +1,7 @@
 ---
 title: "AMPERE: AMR-Aware Prefix for Generation-Based Event Argument Extraction Model"
 collection: publications
-Authors: '<b>I-Hung Hsu<b/><sup>*</sup>, Zhiyu Xie<sup>*</sup>, Kuan-Hao Huang, Prem Natarajan, Nanyun Peng.'
+Authors: '<b>I-Hung Hsu</b><sup>*</sup>, Zhiyu Xie<sup>*</sup>, Kuan-Hao Huang, Prem Natarajan, Nanyun Peng.'
 date: 07/2023
 venue: 'ACL'
 paperurl: 'https://aclanthology.org/2023.acl-long.615/'
