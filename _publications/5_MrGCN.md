@@ -1,7 +1,7 @@
 ---
 title: "Discourse-level Relation Extraction via Graph Pooling"
 collection: publications
-Authors: 'I-Hung Hsu, Xiao Guo, Premkumar Natarajan, Nanyun Peng.'
+Authors: '<b>I-Hung Hsu</b>, Xiao Guo, Premkumar Natarajan, Nanyun Peng.'
 date: 02/2022
 venue: 'DLG-AAAI Workshop'
 paperurl: 'https://aclanthology.org/2021.emnlp-main.597/'
