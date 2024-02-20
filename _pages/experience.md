@@ -16,7 +16,7 @@ redirect_from:
 <br/>
     <span style="color:black; font-size:17px"><b><a href="http://www.ucla.edu/" target="_blank"><font color="brown" size="5">University of California, Los Angeles</font></a></b></span><br/>
     Los Angeles, California<br/>
-    Graduate Research Assistant / Visiting Student Researcher [September, 2020 - Present]<br/>
+    Graduate Research Assistant / Visiting Student Researcher <br/> [September, 2020 - Present]<br/>
     Advisor: <a href="https://vnpeng.net/" target="_blank">Dr. Nanyun Peng</a>, Lab: <a href="https://vnpeng.net/group/" target="_blank">PlusLab</a> <br/>
 <br/>
     <span style="color:black; font-size:17px"><b><a href="https://www.isi.edu/" target="_blank"><font color="brown" size="5">USC Information Sciences Institute</font></a></b></span><br/>
