@@ -9,7 +9,11 @@ redirect_from:
 ---
 
 <p align="justify">
-  I now a Ph.D candidate in Computer Science from the <a href="https://www.cs.usc.edu/">University of Southern California</a> under the supervision of <a href="https://vnpeng.net/">Dr. Nanyun (Violet) Peng</a> and <a href="https://viterbi.usc.edu/directory/faculty/Natarajan/Premkumar">Dr. Premkumar Natarajan</a>. My research interests span the areas of natural language processing (NLP), specifically focusing on information extraction, multilinguality, and question answering. The objective of my research is to develop an AI system that enhances tractability, reliability, and accessibility, thereby facilitating humans in achieving their goals with greater efficiency and ease. Consequently, my work encompasses methods for constructing knowledge bases/graphs, incorporating external knowledge, grounding text to reliable sources, and broadening the applications to more languages.
+  I now a Ph.D candidate in Computer Science from the <a href="https://www.cs.usc.edu/">University of Southern California</a> under the supervision of <a href="https://vnpeng.net/">Dr. Nanyun (Violet) Peng</a> and <a href="https://viterbi.usc.edu/directory/faculty/Natarajan/Premkumar">Dr. Premkumar Natarajan</a>. My research span the fields of natural language processing (NLP), with a particular emphasis on information extraction, multilingualism, and question answering. 
+</p>  
+
+<p align="justify">
+  My research goal is to enhance AI systems with enhanced accountability, reliability, and accessibility thereby enabling humans to leverage AI assistance with increased confidence and ease. Therefore, my research focus includes methods for building knowledge bases/graphs, integrating external reliable source into models, grounding text, and extending the applicability to a wider range of languages.
 </p>
 
 <p align="justify">
