@@ -2,7 +2,7 @@
 title: "TextEE: Benchmark, Reevaluation, Reflections, and Future Challenges in Event Extraction"
 collection: publications
 Authors: 'Kuan-Hao Huang, <b>I-Hung Hsu</b>, Tanmay Parekh, Zhiyu Xie, Zixuan Zhang, Premkumar Natarajan, Kai-Wei Chang, Nanyun Peng, Heng Ji.'
-date: 02/2024
+date: 11/2023
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/pdf/2311.09562.pdf'
 # presentationurl: ''
