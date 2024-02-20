@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 <br/>
-    <span style="color:black; font-size:17px"><b><a href="https://research.google/teams/cloud-ai/" target="_blank"><font color="brown" size="5">Google Cloud AI Research team</font></a></b></span><br/>
+    <span style="color:black; font-size:17px"><b><a href="https://research.google/teams/cloud-ai/" target="_blank"><font color="brown" size="5">Google Cloud AI Research</font></a></b></span><br/>
     Sunnyvale, California<br/>
     Research Intern [Sep, 2023 - Present]<br/>
     Manager: <a href="https://www.linkedin.com/in/chenyulee260/" target="_blank">Chen-Yu Lee</a> <br/>
