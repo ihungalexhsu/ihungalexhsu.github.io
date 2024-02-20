@@ -13,7 +13,7 @@ redirect_from:
 </p>  
 
 <p align="justify">
-  My research goal is to enhance AI systems with enhanced accountability, reliability, and accessibility, thereby enabling humans to leverage AI assistance with increased confidence and ease. Therefore, my research focus includes methods for building knowledge bases/graphs, integrating external knowledge into models, grounding information, and extending the applicability to a wider range of languages.
+  My research goal is to enhance AI systems with enhanced accountability, reliability, and accessibility, thereby enabling humans to leverage AI assistance with increased confidence and ease. Consequently, my research focus includes methods for building knowledge bases/graphs, integrating external knowledge into models, grounding information, and extending the applicability to a wider range of languages.
 </p>
 
 <p align="justify">
