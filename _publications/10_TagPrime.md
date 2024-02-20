@@ -2,7 +2,7 @@
 title: "TAGPRIME: A Unified Framework for Relational Structure Extraction"
 collection: publications
 Authors: '<b>I-Hung Hsu</b><sup>*</sup>, Kuan-Hao Huang<sup>*</sup>, Shuning Zhang, Wenxin Cheng, Premkumar Natarajan, Kai-Wei Chang, Nanyun Peng.'
-date: 07/2023
+date: 06/2023
 venue: 'ACL'
 paperurl: 'https://aclanthology.org/2023.acl-long.723/'
 presentationurl: ../files/acl2023tagprime_slides.pdf

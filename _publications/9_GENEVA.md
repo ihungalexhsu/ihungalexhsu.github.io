@@ -2,7 +2,7 @@
 title: "GENEVA: Benchmarking Generalizability for Event Argument Extraction with Hundreds of Event Types and Argument Roles"
 collection: publications
 Authors: 'Tanmay Parekh, <b>I-Hung Hsu</b>, Kuan-Hao Huang, Kai-Wei Chang, Nanyun Peng.'
-date: 07/2023
+date: 06/2023
 venue: 'ACL'
 paperurl: 'https://aclanthology.org/2023.acl-long.203/'
 # presentationurl: 
