@@ -22,7 +22,7 @@ redirect_from:
 
 You can download my resume [here](../files/Resume_ihunghsu_202402.pdf) (Last Update: Feb, 19th, 2024).
 
-<p align="justify" style='color:orange'>
+<p align="justify" style='color:coral'>
   I am currently on the job market for research positions. Feel free to contact me!
 </p>
 
