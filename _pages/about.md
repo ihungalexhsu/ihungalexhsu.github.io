@@ -21,7 +21,7 @@ redirect_from:
 </p>
 
 <p align="justify" style='color:orange'>
-  I am currently on the job market. Feel free to contact me!
+  I am currently on the job market for research positions. Feel free to contact me!
 </p>
 
 News and Announcements:
