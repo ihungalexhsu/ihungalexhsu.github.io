@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <h2>Professional Services</h2>
-<ol>
+<!-- <ol>
 	<li> Senior Area Chair
 		<ul>
 			<li>2024: NAACL </li>
@@ -35,14 +35,14 @@ redirect_from:
 		<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317">IEEE Transactions on Big Data</a>, 
 		<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69">IEEE Transactions on Knowledge and Data Engineering</a> </li>
 </ol>
-
+<!-- 
 <h2>Honors, Awards, and Scholarships</h2>
 <ol>
 	<li> SIGIR Student Travel Grant [2016, 2019] </li>
 	<li> ICLR Travel Award [2018] </li>
 	<li> Graduate Division Fellowships, UCLA [2017-2018] </li>
 	<li> William L Ballard Jr Endowed Graduate Fellowship, UVA [Spring, 2017] </li>
-	<li> Graduate Division Fellowships, UVA [2015-2016] </li>
-</ol>
+	<li> Graduate Division Fellowships, UVA [2015-2016] </li> -->
+</ol> -->
 
 
