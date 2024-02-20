@@ -10,7 +10,9 @@ redirect_from:
     <span style="color:black; font-size:17px"><b><a href="https://research.google/teams/cloud-ai/" target="_blank"><font color="brown" size="5">Google Cloud AI Research team</font></a></b></span><br/>
     Sunnyvale, California<br/>
     Research Intern [Sep, 2023 - Present]<br/>
-    Manager: <a href="https://www.linkedin.com/in/chenyulee260/" target="_blank">Chen-Yu Lee</a><br/>
+    Manager: <a href="https://www.linkedin.com/in/chenyulee260/" target="_blank">Chen-Yu Lee</a>,
+    Manager: <a href="https://chunliangli.github.io/" target="_blank">Chun-Liang Li</a>
+    <br/>
 <br/>
     <span style="color:black; font-size:17px"><b><a href="http://www.ucla.edu/" target="_blank"><font color="brown" size="5">University of California, Los Angeles</font></a></b></span><br/>
     Visiting Student Researcher [September, 2020 - Present]<br/>
