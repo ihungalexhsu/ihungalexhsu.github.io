@@ -2,7 +2,7 @@
 title: "Multi-hop Evidence Retrieval for Cross-document Relation Extraction"
 collection: publications
 Authors: 'Keming Lu, <b>I-Hung Hsu</b>, Wenxuan Zhou, Mingyu Derek Ma, Muhao Chen.'
-date: 06/2023
+date: 05/2023
 venue: 'ACL-Findings'
 paperurl: 'https://aclanthology.org/2023.findings-acl.657/'
 # presentationurl: 
