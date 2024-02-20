@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can download my [cv](../files/Resume_ihunghsu_202402.pdf).
+You can download my resume [here](../files/Resume_ihunghsu_202402.pdf).
 <br/><br/>
     <span style="color:black; font-size:17px"><b><a href="https://www.cs.usc.edu/" target="_blank"><font color="brown" size="5">University of Southern California</font></a></b></span><br/>
     Doctor of Philosophy (Ph.D.) in Computer Science <br/>
