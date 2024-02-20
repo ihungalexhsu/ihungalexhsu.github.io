@@ -7,7 +7,7 @@ venue: 'DLG-AAAI Workshop'
 paperurl: 'https://aclanthology.org/2021.emnlp-main.597/'
 # presentationurl: ''
 # codeurl: ''
-excerpt: 'Best Paper Award'
+excerpt: '<span style="color:orange">Best Paper Award</span>'
 ---
 ---
 <a href='https://arxiv.org/abs/2101.00124' target="_blank">[Download Paper]</a>

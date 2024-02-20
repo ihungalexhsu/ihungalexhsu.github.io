@@ -7,7 +7,7 @@ venue: 'ACL'
 paperurl: 'https://aclanthology.org/2023.acl-long.447'
 presentationurl: ../files/acl2023paraamr_slides.pdf
 # codeurl: ''
-excerpt: 'Area Chair Award<span style="color:blue">blue</span>'
+excerpt: '<span style="color:orange">Area Chair Award</span>'
 ---
 ---
 <a href='https://aclanthology.org/2023.acl-long.447' target="_blank">[Download Paper]</a><a href='../../files/acl2023paraamr_poster.pdf' target="_blank">[Poster]</a><a href='../../files/acl2023paraamr_slides.pdf' target="_blank">[Slides]</a>
