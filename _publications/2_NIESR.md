@@ -2,7 +2,7 @@
 title: "NIESR: Nuisance Invariant End-to-end Speech Recognition"
 collection: publications
 Authors: '<b>I-Hung Hsu</b>, Ayush Jaiswal, Premkumar Natarajan.'
-date: 07/2019
+date: 09/2019
 venue: 'Interspeech'
 paperurl: 'https://www.isca-archive.org/interspeech_2019/hsu19_interspeech.html'
 # presentationurl: ''
