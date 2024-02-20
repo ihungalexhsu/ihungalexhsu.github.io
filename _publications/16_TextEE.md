@@ -1,8 +1,8 @@
 ---
-title: "A Reevaluation of Event Extraction: Past, Present, and Future Challenges"
+title: "TextEE: Benchmark, Reevaluation, Reflections, and Future Challenges in Event Extraction"
 collection: publications
 Authors: 'Kuan-Hao Huang, <b>I-Hung Hsu</b>, Tanmay Parekh, Zhiyu Xie, Zixuan Zhang, Premkumar Natarajan, Kai-Wei Chang, Nanyun Peng, Heng Ji.'
-date: 11/2023
+date: 02/2024
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/pdf/2311.09562.pdf'
 # presentationurl: ''
@@ -13,5 +13,5 @@ excerpt: 'Under Submission to ACL 2024'
 <a href='https://arxiv.org/pdf/2311.09562.pdf' target="_blank">[Download Paper]</a><a href='https://github.com/ej0cl6/TextEE' target="_blank">[Source Code]</a>
 
 <p align="justify">
-Event extraction has attracted much attention in recent years due to its potential for many applications. However, recent studies observe some evaluation challenges, suggesting that reported scores might not reflect the true performance. In this work, we first identify and discuss these evaluation challenges, including the unfair comparisons resulting from different assumptions about data or different data preprocessing steps, the incompleteness of the current evaluation framework leading to potential dataset bias or data split bias, and low reproducibility of prior studies. To address these challenges, we propose TextEE, a standardized, fair, and reproducible benchmark for event extraction. TextEE contains standardized data preprocessing scripts and splits for more than ten datasets across different domains. In addition, we aggregate and re-implement over ten event extraction approaches published in recent years and conduct a comprehensive reevaluation. Finally, we explore the capability of large language models in event extraction and discuss some future challenges. We expect TextEE will serve as a reliable benchmark for event extraction, facilitating future research in the field.
+Event extraction has gained considerable interest due to its wide-ranging applications. However, recent studies draw attention to evaluation issues, suggesting that reported scores may not accurately reflect the true performance. In this work, we identify and address evaluation challenges, including inconsistency due to varying data assumptions or preprocessing steps, the insufficiency of current evaluation frameworks that may introduce dataset or data split bias, and the low reproducibility of some previous approaches. To address these challenges, we present TextEE, a standardized, fair, and reproducible benchmark for event extraction. TextEE comprises standardized data preprocessing scripts and splits for 14 datasets spanning seven diverse domains and includes 14 recent methodologies, conducting a comprehensive benchmark reevaluation. We also evaluate five varied large language models on our TextEE benchmark and demonstrate how they struggle to achieve satisfactory performance. Inspired by our reevaluation results and findings, we discuss the role of event extraction in the current NLP era, as well as future challenges and insights derived from TextEE. We believe TextEE, the first standardized comprehensive benchmarking tool, will significantly facilitate future event extraction research.
 </p>
