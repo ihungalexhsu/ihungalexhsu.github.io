@@ -20,6 +20,8 @@ redirect_from:
   Before my doctoral studies, I obtained my B.S. from <a href="https://eecs.ntu.edu.tw/?locale=en">National Taiwan University</a> under the guidance of <a href="https://speech.ee.ntu.edu.tw/~hylee">Dr. Hung-Yi Lee</a>. My research during this period concentrated on speech processing and understanding. 
 </p>
 
+You can download my resume [here](../files/Resume_ihunghsu_202402.pdf).
+
 <p align="justify" style='color:orange'>
   I am currently on the job market for research positions. Feel free to contact me!
 </p>
