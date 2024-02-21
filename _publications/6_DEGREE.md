@@ -2,7 +2,7 @@
 title: "DEGREE: A Data-Efficient Generation-Based Event Extraction Model"
 collection: publications
 Authors: '<b>I-Hung Hsu</b><sup>*</sup>, Kuan-Hao Huang<sup>*</sup>, Elizabeth Boschee, Scott Miller, Premkumar Natarajan, Kai-Wei Chang, Nanyun Peng.'
-date: 05/2022
+date: 07/2022
 venue: 'NAACL'
 paperurl: 'https://aclanthology.org/2022.naacl-main.138/'
 presentationurl: 'https://github.com/PlusLabNLP/DEGREE/blob/master/slide_degree_naacl2022.pdf'
