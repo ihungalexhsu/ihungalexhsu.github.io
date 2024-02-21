@@ -1,7 +1,7 @@
 ---
 title: "Contextual Label Projection for Cross-Lingual Structure Extraction"
 collection: publications
-Authors: 'Tanymay Parekh, <b>I-Hung Hsu</b><sup>*</sup>, Kuan-Hao Huang, Kai-Wei Chang, Nanyun Peng.'
+Authors: 'Tanymay Parekh, <b>I-Hung Hsu</b>, Kuan-Hao Huang, Kai-Wei Chang, Nanyun Peng.'
 date: 09/2023
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/pdf/2309.08943.pdf'
