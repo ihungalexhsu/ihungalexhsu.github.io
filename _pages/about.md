@@ -28,9 +28,9 @@ You can download my resume [here](../files/Resume_ihunghsu_202402.pdf) (Last Upd
 
 News and Announcements:
 ======
-1. <span style="color:#52adc8">[02.2024] </span> A new paper ([TextEE: Benchmark, Reevaluation, Reflections, and Future Challenges in Event Extraction](https://arxiv.org/abs/2311.09562)) is on arXiv now.
-1. <span style="color:#52adc8">[09.2023] </span> A new paper ([Contextual Label Projection for Cross-Lingual Structure Extraction](https://arxiv.org/abs/2309.08943)) is on arXiv now.
-1. <span style="color:#52adc8">[09.2023] </span> I joined Google Cloud AI Research as a research intern.
-1. <span style="color:blue">[07.2023] </span> One paper got Area Chair Award at ACL 2023.
-1. <span style="color:blue">[05.2023] </span> I joined Microsoft Research as a research intern.
-1. <span style="color:blue">[05.2023] </span> Six papers got accepted at ACL 2023, including four main conference long papers and two long finding papers.
+1. <span>[02.2024] </span> A new paper ([TextEE: Benchmark, Reevaluation, Reflections, and Future Challenges in Event Extraction](https://arxiv.org/abs/2311.09562)) is on arXiv now.
+1. <span>[09.2023] </span> A new paper ([Contextual Label Projection for Cross-Lingual Structure Extraction](https://arxiv.org/abs/2309.08943)) is on arXiv now.
+1. <span>[09.2023] </span> I joined Google Cloud AI Research as a research intern.
+1. <span>[07.2023] </span> One paper got Area Chair Award at ACL 2023.
+1. <span>[05.2023] </span> I joined Microsoft Research as a research intern.
+1. <span>[05.2023] </span> Six papers got accepted at ACL 2023, including four main conference long papers and two long finding papers.
