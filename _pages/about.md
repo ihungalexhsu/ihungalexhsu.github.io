@@ -23,10 +23,10 @@ redirect_from:
 You can download my resume [here](../files/Resume_ihunghsu_202402.pdf) (Last Update: Feb, 19th, 2024).
 
 <p align="left" style='color:coral'>
-  <b> 💥💥 I am currently on the job market for research positions. Feel free to contact me!</b>
+  <b> ⭐I am currently on the job market for research positions. Feel free to contact me!⭐</b>
 </p>
 
-News and Announcements:
+💥News and Announcements💥:
 ======
 1. <span>[02.2024] </span> A new paper ([TextEE: Benchmark, Reevaluation, Reflections, and Future Challenges in Event Extraction](https://arxiv.org/abs/2311.09562)) is on arXiv now.
 1. <span>[09.2023] </span> A new paper ([Contextual Label Projection for Cross-Lingual Structure Extraction](https://arxiv.org/abs/2309.08943)) is on arXiv now.
