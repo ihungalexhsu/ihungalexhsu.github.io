@@ -8,21 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-<p align="justify">
+<p align="text-left">
   I am now a Ph.D candidate in Computer Science from the <a href="https://www.cs.usc.edu/">University of Southern California</a> under the supervision of <a href="https://vnpeng.net/">Dr. Nanyun (Violet) Peng</a> and <a href="https://viterbi.usc.edu/directory/faculty/Natarajan/Premkumar">Dr. Premkumar Natarajan</a>. My research spans the fields of natural language processing, with a particular emphasis on information extraction, multilingualism, and question answering. 
 </p>  
 
-<p align="justify">
+<p align="text-left">
   My research goal is to enhance AI systems with enhanced accountability, reliability, and accessibility, thereby enabling human to leverage AI assistance with increased confidence and ease. Consequently, my research focus includes methods for building knowledge bases/graphs, integrating external knowledge into models, grounding information, and extending the applicability to a wider range of languages.
 </p>
 
-<p align="justify">
+<p align="text-left">
   Before my doctoral studies, I obtained my B.S. from <a href="https://eecs.ntu.edu.tw/?locale=en">National Taiwan University</a> under the guidance of <a href="https://speech.ee.ntu.edu.tw/~hylee">Dr. Hung-Yi Lee</a>. My research during this period concentrated on speech processing and understanding. 
 </p>
 
 You can download my resume [here](../files/Resume_ihunghsu_202402.pdf) (Last Update: Feb, 19th, 2024).
 
-<p align="justify" style='color:coral'>
+<p align="text-left" style='color:coral'>
   I am currently on the job market for research positions. Feel free to contact me!
 </p>
 
