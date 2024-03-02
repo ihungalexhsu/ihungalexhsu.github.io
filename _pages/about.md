@@ -23,7 +23,7 @@ redirect_from:
 You can download my resume [here](../files/Resume_ihunghsu_202402.pdf) (Last Update: Feb, 19th, 2024).
 
 <p align="left" style='color:coral'>
-  <b>I am currently on the job market for research positions. Feel free to contact me!</b>
+  <b> &#11088" &#11088 I am currently on the job market for research positions. Feel free to contact me!</b>
 </p>
 
 News and Announcements:
