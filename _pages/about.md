@@ -20,7 +20,7 @@ redirect_from:
   Before my doctoral studies, I obtained my B.S. from <a href="https://eecs.ntu.edu.tw/?locale=en">National Taiwan University</a> under the guidance of <a href="https://speech.ee.ntu.edu.tw/~hylee">Dr. Hung-Yi Lee</a>. My research during this period concentrated on speech processing and understanding. 
 </p>
 
-You can download my resume [here](../files/Resume_ihunghsu_202402.pdf) (Last Update: Feb, 19th, 2024).
+You can download my resume [here](../files/Resume_ihunghsu_202403.pdf) (Last Update: Feb, 19th, 2024).
 
 <p align="left" style='color:coral'>
   <b> ⭐ I am currently on the job market for research positions. Feel free to contact me! ⭐</b>
@@ -28,8 +28,8 @@ You can download my resume [here](../files/Resume_ihunghsu_202402.pdf) (Last Upd
 
 💥 News and Announcements:
 ======
+1. <span>[03.2024] </span> Our paper [Contextual Label Projection for Cross-Lingual Structure Extraction](https://arxiv.org/abs/2309.08943) has been accepted to the main conference of NAACL 2024.
 1. <span>[02.2024] </span> A new paper ([TextEE: Benchmark, Reevaluation, Reflections, and Future Challenges in Event Extraction](https://arxiv.org/abs/2311.09562)) is on arXiv now.
-1. <span>[09.2023] </span> A new paper ([Contextual Label Projection for Cross-Lingual Structure Extraction](https://arxiv.org/abs/2309.08943)) is on arXiv now.
 1. <span>[09.2023] </span> I joined Google Cloud AI Research as a research intern.
 1. <span>[07.2023] </span> One paper got Area Chair Award at ACL 2023.
 1. <span>[05.2023] </span> I joined Microsoft Research as a research intern.
