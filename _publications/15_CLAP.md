@@ -7,7 +7,7 @@ venue: 'NAACL'
 paperurl: 'https://arxiv.org/pdf/2309.08943.pdf'
 # presentationurl: ''
 # codeurl: ''
-# excerpt: 'Under Submission to NAACL 2024'
+excerpt: ''
 ---
 ---
 <a href='https://arxiv.org/pdf/2309.08943.pdf' target="_blank">[Download Paper]</a>
