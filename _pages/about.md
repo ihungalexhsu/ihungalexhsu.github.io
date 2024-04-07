@@ -29,6 +29,7 @@ You can download my resume [here](../files/Resume_ihunghsu_202403.pdf) (Last Upd
 💥 News and Announcements:
 ======
 1. <span>[03.2024] </span> Our paper [Contextual Label Projection for Cross-Lingual Structure Extraction](https://arxiv.org/abs/2309.08943) has been accepted to the main conference of NAACL 2024.
+1. <span>[03.2024] </span> A new paper ([Argument-Aware Approach To Event Linking](https://arxiv.org/abs/2403.15097)) is on arXiv now.
 1. <span>[02.2024] </span> A new paper ([TextEE: Benchmark, Reevaluation, Reflections, and Future Challenges in Event Extraction](https://arxiv.org/abs/2311.09562)) is on arXiv now.
 1. <span>[09.2023] </span> I joined Google Cloud AI Research as a research intern.
 1. <span>[07.2023] </span> One paper got Area Chair Award at ACL 2023.
