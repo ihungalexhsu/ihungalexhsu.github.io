@@ -28,8 +28,8 @@ You can download my resume [here](../files/Resume_ihunghsu_202405.pdf) (Last Upd
 
 💥 News and Announcements:
 ======
-1. <span>[03.2024] </span> Three papers got accepted at ACL 2024, including two long finding papers and one short finding paper.
-1. <span>[03.2024] </span> ⭐ I have successfully defended my Ph.D. ⭐!
+1. <span>[05.2024] </span> Three papers got accepted at ACL 2024, including two long finding papers and one short finding paper.
+1. <span>[05.2024] </span> ⭐ I have successfully defended my Ph.D. ⭐!
 1. <span>[03.2024] </span> Our paper [Contextual Label Projection for Cross-Lingual Structure Extraction](https://arxiv.org/abs/2309.08943) has been accepted to the main conference of NAACL 2024.
 1. <span>[09.2023] </span> I joined Google Cloud AI Research as a research intern.
 1. <span>[07.2023] </span> One paper got Area Chair Award at ACL 2023.
