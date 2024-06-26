@@ -4,13 +4,13 @@ collection: publications
 Authors: '<b>I-Hung Hsu</b><sup>*</sup>, Zihan Xue<sup>*</sup>, Nilay Pochh, Sahil Bansal, Premkumar Natarajan, Jayanth Srinivasa, Nanyun Peng.'
 date: 06/2024
 venue: 'ACL-Findings'
-paperurl: 'https://https://arxiv.org/abs/2403.15097.pdf'
+paperurl: 'https://arxiv.org/abs/2403.15097.pdf'
 # presentationurl: ''
 codeurl: 'https://github.com/PlusLabNLP/Argu_Event_Linking'
 excerpt: ''
 ---
 ---
-<a href='https://https://arxiv.org/abs/2403.15097.pdf' target="_blank">[Download Paper]</a><a href='https://github.com/PlusLabNLP/Argu_Event_Linking' target="_blank">[Source Code]</a>
+<a href='https://arxiv.org/abs/2403.15097.pdf' target="_blank">[Download Paper]</a><a href='https://github.com/PlusLabNLP/Argu_Event_Linking' target="_blank">[Source Code]</a>
 
 <p align="justify">
 Event linking connects event mentions in text with relevant nodes in a knowledge base (KB). Prior research in event linking has mainly borrowed methods from entity linking, overlooking the distinct features of events. Compared to the extensively explored entity linking task, events have more complex structures and can be more effectively distinguished by examining their associated arguments. Moreover, the information-rich nature of events leads to the scarcity of event KBs. This emphasizes the need for event linking models to identify and classify event mentions not in the KB as ``out-of-KB,'' an area that has received limited attention. In this work, we tackle these challenges by introducing an argument-aware approach. First, we improve event linking models by augmenting input text with tagged event argument information, facilitating the recognition of key information about event mentions. Subsequently, to help the model handle ``out-of-KB'' scenarios, we synthesize out-of-KB training examples from in-KB instances through controlled manipulation of event arguments. Our experiment across two test datasets showed significant enhancements in both in-KB and out-of-KB scenarios, with a notable 22% improvement in out-of-KB evaluations.
