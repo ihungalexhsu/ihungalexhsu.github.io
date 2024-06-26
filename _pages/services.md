@@ -11,12 +11,12 @@ redirect_from:
 <ol>
 	<li> Senior Program Committee/Area Chair/Action Editor
 		<ul>
-			<li>2024: ARR Feb (ACL 2024)</li>
+			<li>2024: ARR Feb, Apr, Jun (ACL 2024)</li>
     	</ul>
 	</li>
 	<li> Program Committee/Reviewer
 		<ul>
-			<li>2024: COLM, NAACL, EACL, ARR, AAAI, CogSci </li>
+			<li>2024: Nuerips, COLM, ARR, ACL, EMNLP, EACL, NAACL, AAAI, Neurips, CogSci, TKDE </li>
 			<li>2023: ARR, ACL, EMNLP, EACL, AAAI, AISTATS, CogSci, NLPCC </li>
 			<li>2022: ARR, ACL, NAACL, EMNLP, AAAI, NLPCC, Transfer Learning for NLP workshop@NeurIPS</li>
 			<li>2021: ARR, ACL, EMNLP, AAAI </li>

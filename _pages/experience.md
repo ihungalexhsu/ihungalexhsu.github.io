@@ -7,22 +7,22 @@ redirect_from:
   - /resume
 ---
 <br/>
-    <span style="color:black; font-size:17px"><b><a href="https://research.google/teams/cloud-ai/" target="_blank"><font color="brown" size="5">Google Cloud AI Research</font></a></b></span><br/>
-    Sunnyvale, California<br/>
-    Research Intern [Sep, 2023 - Present]<br/>
-    Manager: <a href="https://www.linkedin.com/in/chenyulee260/" target="_blank">Chen-Yu Lee</a>, 
-    Manager: <a href="https://chunliangli.github.io/" target="_blank">Chun-Liang Li</a>
-    <br/>
-<br/>
     <span style="color:black; font-size:17px"><b><a href="http://www.ucla.edu/" target="_blank"><font color="brown" size="5">University of California, Los Angeles</font></a></b></span><br/>
     Los Angeles, California<br/>
-    Graduate Research Assistant / Visiting Student Researcher <br/> [September, 2020 - Present]<br/>
+    Graduate Research Assistant / Visiting Student Researcher <br/> [September, 2020 - May, 2024]<br/>
     Advisor: <a href="https://vnpeng.net/" target="_blank">Dr. Nanyun Peng</a>, Lab: <a href="https://vnpeng.net/group/" target="_blank">PlusLab</a> <br/>
 <br/>
     <span style="color:black; font-size:17px"><b><a href="https://www.isi.edu/" target="_blank"><font color="brown" size="5">USC Information Sciences Institute</font></a></b></span><br/>
     Los Angeles, California<br/>
-    Graduate Research Assistant [Augest, 2018 - Present]<br/>
+    Graduate Research Assistant [Augest, 2018 - May, 2024]<br/>
     Advisor: <a href="https://viterbi.usc.edu/directory/faculty/Natarajan/Premkumar" target="_blank">Dr. Premkumar Natarajan</a>
+    <br/>
+<br/>
+    <span style="color:black; font-size:17px"><b><a href="https://research.google/teams/cloud-ai/" target="_blank"><font color="brown" size="5">Google Cloud AI Research</font></a></b></span><br/>
+    Sunnyvale, California<br/>
+    Research Intern [Sep, 2023 - Mar, 2024]<br/>
+    Manager: <a href="https://chl260.github.io/" target="_blank">Chen-Yu Lee</a>, 
+    Manager: <a href="https://chunliangli.github.io/" target="_blank">Chun-Liang Li</a>
     <br/>
 <br/>
     <span style="color:black; font-size:17px"><b><a href="https://www.microsoft.com/en-us/research/" target="_blank"><font color="brown" size="5">Microsoft Research</font></a></b></span><br/>
