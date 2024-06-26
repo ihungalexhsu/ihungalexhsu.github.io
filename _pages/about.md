@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="left">
-  I received my Ph.D in Computer Science from the <a href="https://www.cs.usc.edu/">University of Southern California</a> under the supervision of <a href="https://vnpeng.net/">Dr. Nanyun (Violet) Peng</a> and <a href="https://viterbi.usc.edu/directory/faculty/Natarajan/Premkumar">Dr. Premkumar Natarajan</a>. My research spans the fields of natural language processing, with a particular emphasis on information extraction, multilingualism, and question answering. 
+  I was awarded a Ph.D in Computer Science from the <a href="https://www.cs.usc.edu/">University of Southern California</a> under the supervision of <a href="https://vnpeng.net/">Dr. Nanyun (Violet) Peng</a> and <a href="https://viterbi.usc.edu/directory/faculty/Natarajan/Premkumar">Dr. Premkumar Natarajan</a>. My research spans the fields of natural language processing, with a particular emphasis on information extraction, multilingualism, and question answering. 
 </p>  
 
 <p align="left">
