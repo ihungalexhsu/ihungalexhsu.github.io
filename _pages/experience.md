@@ -1,11 +1,12 @@
 ---
 layout: archive
-title: "Professional Experience"
+title: "Work Experience"
 permalink: /experience/
 author_profile: true
 redirect_from:
   - /resume
 ---
+<!-- 
 <br/>
     <span style="color:black; font-size:17px"><b><a href="http://www.ucla.edu/" target="_blank"><font color="brown" size="5">University of California, Los Angeles</font></a></b></span><br/>
     Los Angeles, California<br/>
@@ -16,6 +17,12 @@ redirect_from:
     Los Angeles, California<br/>
     Graduate Research Assistant [Augest, 2018 - May, 2024]<br/>
     Advisor: <a href="https://viterbi.usc.edu/directory/faculty/Natarajan/Premkumar" target="_blank">Dr. Premkumar Natarajan</a>
+    <br/>
+-->
+<br/>
+    <span style="color:black; font-size:17px"><b><a href="https://research.google/teams/cloud-ai/" target="_blank"><font color="brown" size="5">Google Cloud AI Research</font></a></b></span><br/>
+    Sunnyvale, California<br/>
+    Research Scientist [Aug, 2024 - ]<br/>
     <br/>
 <br/>
     <span style="color:black; font-size:17px"><b><a href="https://research.google/teams/cloud-ai/" target="_blank"><font color="brown" size="5">Google Cloud AI Research</font></a></b></span><br/>
