@@ -28,7 +28,7 @@ You can download my resume [here](../files/Resume_ihunghsu_202408.pdf) (Last Upd
 
 💥 News and Announcements:
 ======
-1. <span>[03.2025] </span> Recently published three papers on arXiv: one on LLM tool use, one on memory for LLM agent, and another on LLM-based data synthesis for event understanding.
+1. <span>[03.2025] </span> Recently published three papers on arXiv: <a href="https://arxiv.org/pdf/2503.07826">one on LLM tool use</a>, <a href="https://arxiv.org/pdf/2503.08026">one on memory management for LLM agents</a>, and another on <a href="https://arxiv.org/pdf/2502.17394">LLM-based data synthesis for event understanding</a>.
 1. <span>[08.2024] </span> I joined Google Cloud AI Research as a full-time research scientist.
 1. <span>[05.2024] </span> Three papers got accepted at ACL 2024, including two long finding papers and one short finding paper.
 1. <span>[05.2024] </span> ⭐ I have successfully defended my Ph.D. ⭐!
