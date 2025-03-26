@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="left">
-  I am a research scientist at Google. I was awarded a Ph.D in Computer Science from the <a href="https://www.cs.usc.edu/">University of Southern California</a> under the supervision of <a href="https://vnpeng.net/">Dr. Nanyun (Violet) Peng</a> and <a href="https://viterbi.usc.edu/directory/faculty/Natarajan/Premkumar">Dr. Premkumar Natarajan</a>.
+  I am a research scientist at Google. I was awarded a Ph.D in Computer Science from the <a href="https://www.cs.usc.edu/">University of Southern California</a> under the supervision of <a href="https://violetpeng.github.io/">Dr. Nanyun (Violet) Peng</a> and <a href="https://scholar.google.com/citations?user=X-NM0rJIU_AC&hl=en">Dr. Premkumar Natarajan</a>.
 </p>  
 
 <p align="left">
