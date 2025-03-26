@@ -13,7 +13,7 @@ redirect_from:
 </p>  
 
 <p align="left">
-  My research goal is to enhance AI systems with enhanced accountability, reliability and accessibility on understanding and processing human languages. Consequently, my research focus includes methods for building knowledge bases/graphs & integrating external knowledge into models for better accountability, helping models to generate with grounded responses, and extending their applicability to a wider range of languages.
+  My research goal is to enhance AI systems with enhanced accountability, reliability and accessibility on understanding and reason human languages. Consequently, my research focus includes methods for building knowledge bases/graphs & integrating external knowledge and tools into models for better accountability, helping models to generate with grounded responses, and extending their applicability to a wider range of languages.
 </p>
 
 <p align="left">
@@ -28,6 +28,7 @@ You can download my resume [here](../files/Resume_ihunghsu_202408.pdf) (Last Upd
 
 💥 News and Announcements:
 ======
+1. <span>[03.2025] </span> Recently published three papers on arXiv: one on LLM tool use, one on memory for LLM agent, and another on LLM-based data synthesis for event understanding.
 1. <span>[08.2024] </span> I joined Google Cloud AI Research as a full-time research scientist.
 1. <span>[05.2024] </span> Three papers got accepted at ACL 2024, including two long finding papers and one short finding paper.
 1. <span>[05.2024] </span> ⭐ I have successfully defended my Ph.D. ⭐!
