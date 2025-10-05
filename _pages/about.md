@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="left">
-I am a Research Scientist at Google working to enhance human-AI collaboration. My research is focused on developing intelligent systems that can understand and act over long horizons. My primary work includes:
+I am a Research Scientist at Google working to enhance human-AI collaboration. My research focuses on developing intelligent systems that can understand and act over long horizons. My primary work includes:
 </p>
 
 <ul>
