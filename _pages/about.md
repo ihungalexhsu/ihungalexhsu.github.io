@@ -9,12 +9,16 @@ redirect_from:
 ---
 
 <p align="left">
-  I am a research scientist at Google. I was awarded a Ph.D in Computer Science from the <a href="https://www.cs.usc.edu/">University of Southern California</a> under the supervision of <a href="https://violetpeng.github.io/">Dr. Nanyun (Violet) Peng</a> and <a href="https://scholar.google.com/citations?user=X-NM0rJIU_AC&hl=en">Dr. Premkumar Natarajan</a>.
-</p>  
+  I am is a Research Scientist at Google working to enhance human-AI collaboration. My research is focused on developing intelligent systems that can understand and act over long horizons. My works primary include:
+- *Multi-Step Interaction*: Designing robust AI systems that can interact with humans and the environment over multiple turns to solve complex problems.
+- *Knowledge Integration*: Building and applying knowledge graphs to provide AI with structured memory, enabling better contextual understanding and knowledge injection.
+- *Multilingual Systems*: Ensuring these advanced AI capabilities are accessible and effective across a wide array of languages.
+</p>
 
 <p align="left">
-  My research goal is to enhance AI systems with enhanced accountability, reliability and accessibility on understanding and reason human languages. Consequently, my research focus includes methods for building knowledge bases/graphs & integrating external knowledge and tools into models for better accountability, helping models to generate with grounded responses, and extending their applicability to a wider range of languages.
-</p>
+  I were awarded my Ph.D in Computer Science from the <a href="https://www.cs.usc.edu/">University of Southern California</a> under the supervision of <a href="https://violetpeng.github.io/">Dr. Nanyun (Violet) Peng</a> and <a href="https://scholar.google.com/citations?user=X-NM0rJIU_AC&hl=en">Dr. Premkumar Natarajan</a>.  My contributions were foretunated to be recognized with an Amazon Alexa Graduate Fellowship, a Best Paper Award at the DLG-AAAI’22 Workshop, and an Area Chair Award at ACL 2023.
+</p>  
+
 
 <p align="left">
   Before my doctoral studies, I obtained my B.S. from <a href="https://eecs.ntu.edu.tw/?locale=en">National Taiwan University</a> under the guidance of <a href="https://speech.ee.ntu.edu.tw/~hylee">Dr. Hung-Yi Lee</a>. My research during this period concentrated on speech processing and understanding. 
