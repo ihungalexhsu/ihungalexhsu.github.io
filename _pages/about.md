@@ -9,19 +9,21 @@ redirect_from:
 ---
 
 <p align="left">
-  I am is a Research Scientist at Google working to enhance human-AI collaboration. My research is focused on developing intelligent systems that can understand and act over long horizons. My works primary include:
-- *Multi-Step Interaction*: Designing robust AI systems that can interact with humans and the environment over multiple turns to solve complex problems.
-- *Knowledge Integration*: Building and applying knowledge graphs to provide AI with structured memory, enabling better contextual understanding and knowledge injection.
-- *Multilingual Systems*: Ensuring these advanced AI capabilities are accessible and effective across a wide array of languages.
+I am a Research Scientist at Google working to enhance human-AI collaboration. My research is focused on developing intelligent systems that can understand and act over long horizons. My primary work includes:
+</p>
+
+<ul>
+  <li><strong>Multi-Step Interaction:</strong> Designing robust AI systems that can interact with humans and the environment over multiple turns to solve complex problems.</li>
+  <li><strong>Knowledge Integration:</strong> Building and applying knowledge graphs to provide AI with structured memory, enabling better contextual understanding and knowledge injection.</li>
+  <li><strong>Multilingual Systems:</strong> Ensuring these advanced AI capabilities are accessible and effective across a wide array of languages.</li>
+</ul>
+
+<p align="left">
+I earned my Ph.D. in Computer Science from the <a href="https://www.cs.usc.edu/">University of Southern California</a>, advised by <a href="https://violetpeng.github.io/">Dr. Nanyun (Violet) Peng</a> and <a href="https://scholar.google.com/citations?user=X-NM0rJIU_AC&hl=en">Dr. Premkumar Natarajan</a>. I was fortunate to have my contributions recognized with an Amazon Alexa Graduate Fellowship, a Best Paper Award at the DLG-AAAI’22 Workshop, and an Area Chair Award at ACL 2023.
 </p>
 
 <p align="left">
-  I were awarded my Ph.D in Computer Science from the <a href="https://www.cs.usc.edu/">University of Southern California</a> under the supervision of <a href="https://violetpeng.github.io/">Dr. Nanyun (Violet) Peng</a> and <a href="https://scholar.google.com/citations?user=X-NM0rJIU_AC&hl=en">Dr. Premkumar Natarajan</a>.  My contributions were foretunated to be recognized with an Amazon Alexa Graduate Fellowship, a Best Paper Award at the DLG-AAAI’22 Workshop, and an Area Chair Award at ACL 2023.
-</p>  
-
-
-<p align="left">
-  Before my doctoral studies, I obtained my B.S. from <a href="https://eecs.ntu.edu.tw/?locale=en">National Taiwan University</a> under the guidance of <a href="https://speech.ee.ntu.edu.tw/~hylee">Dr. Hung-Yi Lee</a>. My research during this period concentrated on speech processing and understanding. 
+Before my doctoral studies, I obtained my B.S. from <a href="https://eecs.ntu.edu.tw/?locale=en">National Taiwan University</a> under the guidance of <a href="https://speech.ee.ntu.edu.tw/~hylee">Dr. Hung-Yi Lee</a>, where my research focused on speech processing and understanding.
 </p>
 
 You can download my resume [here](../files/Resume_ihunghsu_202408.pdf) (Last Update: Aug, 2024).
