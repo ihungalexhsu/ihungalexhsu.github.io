@@ -26,7 +26,7 @@ I earned my Ph.D. in Computer Science from the <a href="https://www.cs.usc.edu/"
 Before my doctoral studies, I obtained my B.S. from <a href="https://eecs.ntu.edu.tw/?locale=en">National Taiwan University</a> under the guidance of <a href="https://speech.ee.ntu.edu.tw/~hylee">Dr. Hung-Yi Lee</a>, where my research focused on speech processing and understanding.
 </p>
 
-You can download my resume [here](../files/Resume_ihunghsu_202408.pdf) (Last Update: Aug, 2024).
+You can download my resume [here](../files/Resume_ihunghsu_202610.pdf) (Last Update: Oct, 2026).
 
 <!-- <p align="left" style='color:coral'>
   <b> ⭐ I am currently on the job market for research positions. Feel free to contact me! ⭐</b>
