@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+<p align="left" style='color:coral'>
+  <b>📌 Note: This website is a bit outdated. For my latest information, please see my <a href="../files/Resume_ihunghsu_202610.pdf">resume</a> (Last Update: Oct, 2026) or <a href="https://scholar.google.com/citations?user=OtSSwJgAAAAJ&hl=en">Google Scholar</a>.</b>
+</p>
+
 <p align="left">
 I am a Research Scientist at Google working to enhance human-AI collaboration. My research focuses on developing intelligent systems that can understand and act over long horizons. My primary work includes:
 </p>
